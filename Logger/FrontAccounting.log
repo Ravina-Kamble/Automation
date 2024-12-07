@@ -1,0 +1,37 @@
+17:16:18.664 [main] FATAL   com.logger.LoggerDemo -This is fatal
+17:16:18.665 [main] ERROR   com.logger.LoggerDemo -This is Error code
+17:16:18.665 [main] WARN    com.logger.LoggerDemo -This is an Warm code
+17:16:18.665 [main] INFO    com.logger.LoggerDemo -This is info code
+17:16:18.665 [main] DEBUG   com.logger.LoggerDemo -This is debug code
+17:16:18.666 [main] TRACE   com.logger.LoggerDemo -This is trace code
+17:16:33.932 [main] FATAL   com.logger.LoggerDemo -This is fatal
+17:16:33.934 [main] ERROR   com.logger.LoggerDemo -This is Error code
+17:16:33.934 [main] WARN    com.logger.LoggerDemo -This is an Warm code
+17:16:33.934 [main] INFO    com.logger.LoggerDemo -This is info code
+17:16:33.934 [main] DEBUG   com.logger.LoggerDemo -This is debug code
+17:16:33.934 [main] TRACE   com.logger.LoggerDemo -This is trace code
+17:16:37.927 [main] FATAL   com.logger.LoggerDemo -This is fatal
+17:16:37.929 [main] ERROR   com.logger.LoggerDemo -This is Error code
+17:16:37.929 [main] WARN    com.logger.LoggerDemo -This is an Warm code
+17:16:37.929 [main] INFO    com.logger.LoggerDemo -This is info code
+17:16:37.929 [main] DEBUG   com.logger.LoggerDemo -This is debug code
+17:16:37.929 [main] TRACE   com.logger.LoggerDemo -This is trace code
+17:17:08.884 [main] FATAL   com.logger.LoggerDemo -This is fatal
+17:17:08.885 [main] ERROR   com.logger.LoggerDemo -This is Error code
+17:17:08.885 [main] WARN    com.logger.LoggerDemo -This is an Warm code
+17:17:08.885 [main] INFO    com.logger.LoggerDemo -This is info code
+17:17:08.885 [main] DEBUG   com.logger.LoggerDemo -This is debug code
+17:17:08.886 [main] TRACE   com.logger.LoggerDemo -This is trace code
+17:17:16.020 [main] FATAL   com.logger.LoggerDemo -This is fatal
+17:17:16.021 [main] ERROR   com.logger.LoggerDemo -This is Error code
+17:17:16.022 [main] WARN    com.logger.LoggerDemo -This is an Warm code
+17:17:16.022 [main] INFO    com.logger.LoggerDemo -This is info code
+17:17:16.022 [main] DEBUG   com.logger.LoggerDemo -This is debug code
+17:17:16.022 [main] TRACE   com.logger.LoggerDemo -This is trace code
+17:49:06.095 [main] INFO    com.logger.SourceLab -Chrome browser ha sbeen launch
+17:49:06.650 [main] INFO    com.logger.SourceLab -user has open saurce demo site
+17:49:06.699 [main] INFO    com.logger.SourceLab -User enter the user name  as'standard_user' in the filed
+17:49:06.735 [main] INFO    com.logger.SourceLab -User enter the Password  as'secret_sauce' in the filed
+17:49:06.793 [main] INFO    com.logger.SourceLab -User click on login button
+17:49:06.838 [main] INFO    com.logger.SourceLab - click on menu button
+17:49:06.954 [main] INFO    com.logger.SourceLab - click on logout button
